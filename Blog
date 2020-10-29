@@ -1,0 +1,7 @@
+mkdir nomerepository
+cd nomerepository
+echo "Blog" >> README.md
+git init
+git config user.name "beaila"
+git config user.email "beatriceilari@savoiabenincasa.it"
+git commit -m "first commit"
